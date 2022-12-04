@@ -2,4 +2,4 @@
 - 👀 I’m interested in supply chain and production planning or any thing related to industrial engineering
 - 🌱 I’m currently learning machine learning for supplier selection
 - 💞️ I’m looking to collaborate on supply chain issues
-- 📫 you can send an e-mail to bahramnahry21@gmail.com or nahramnahry.21@ut.ac.ir
+- 📫 you can send an e-mail to bahramnahry21@gmail.com or bahramnahry.21@ut.ac.ir
